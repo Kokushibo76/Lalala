@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\ResearchDocumentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\ResearchDocumentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\DoctorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\DoctorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AppointmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AppointmentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AnalysDocumentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AnalysDocumentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AppointmentDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AppointmentDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AnalysDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AnalysDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\API EMIAC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\API EMIAC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpPW10-WPF\\API EMIAC\\API EMIAC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResearchDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\ResearchDocumentsController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\ResearchDocumentsController.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\ResearchDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:57:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\DoctorsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:57:03.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:57:02.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalysDocumentsController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AnalysDocumentsController.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AnalysDocumentsController.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AnalysDocumentsController.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Controllers\\AnalysDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:57:01.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Doctor.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:56:57.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppointmentDocument.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AppointmentDocument.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AppointmentDocument.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AppointmentDocument.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AppointmentDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:56:56.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalysDocument.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AnalysDocument.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AnalysDocument.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AnalysDocument.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\AnalysDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:56:54.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Administrator.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Administrator.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Models\\Administrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:56:53.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API EMIAC.csproj",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\API EMIAC.csproj",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\API EMIAC.csproj",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\API EMIAC.csproj",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\API EMIAC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T07:56:49.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Program.cs",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:56:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\appsettings.json",
+              "RelativeDocumentMoniker": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u041F\u0430\u0448\u0430\\Desktop\\CSharpPW10-WPF\\CSharpPW10-WPF\\API EMIAC\\API EMIAC\\appsettings.json",
+              "RelativeToolTip": "CSharpPW10-WPF\\API EMIAC\\API EMIAC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T07:56:42.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
