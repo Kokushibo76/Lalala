@@ -74,7 +74,6 @@
                         
                     </Button>
 
-
                 </Grid>
                 <StackPanel Name="OnGearStackPanel" Visibility="Collapsed" Background="#2196F3" Margin="10">
                     <TextBlock Text="Темная тема" Foreground="White" Background="#2196F3" Margin="5" Cursor="Hand" />
@@ -84,7 +83,6 @@
                 </StackPanel>
             </StackPanel>
         </DockPanel>
-
 
         <Grid Grid.Column="1">
             <Grid.RowDefinitions>
@@ -126,13 +124,10 @@
                                 <RowDefinition Height="auto"/>
                                 <RowDefinition Height="auto"/>
                             </Grid.RowDefinitions>
-                            <TextBox  Grid.Row="0" Foreground="Black" Text="Москва, Каширское ш. д. 62" BorderBrush="{x:Null}" HorizontalAlignment="Right"/>
-                            <TextBox  Grid.Row="1" Foreground="Black" Text="12 декабря 2022 г." BorderBrush="{x:Null}" HorizontalAlignment="Right"/>
+                            <TextBox  Grid.Row="0" Foreground="Black" Text="Москва Недорубова д1" BorderBrush="{x:Null}" HorizontalAlignment="Right"/>
+                            <TextBox  Grid.Row="1" Foreground="Black" Text="26 июня 2024 г." BorderBrush="{x:Null}" HorizontalAlignment="Right"/>
                         </Grid>
                     </Grid>
-
-
-
 
                     <RichTextBox Grid.Row="1" Margin="0 0 10 0" >
                         <FlowDocument>
@@ -141,8 +136,6 @@
                             </Paragraph>
                         </FlowDocument>
                     </RichTextBox>
-
-
 
                 </Grid>
 
